@@ -20,11 +20,11 @@ El observatorio se articula en torno a cuatro objetivos fundamentales:
 ## 🔍 ¿Qué encontrará aquí?
 Debido a que el observatorio está en una fase de desarrollo, de momento solo podemos compartir resultados preliminares sobre los que seguimos trabajando. En este repositorio, encontrará únicamente datos acerca del gobierno autónomico de Castilla y León en España [^1] a pesar de que dicho acuerdo se rompió en Julio de 2024[^2]. En concreto, encontrarán de forma limitada:
 
-📂 **Base documental** de tweets, noticias, ruedas de presna e iniciativas legislativas de la extrema derecha. [Ir a base-documental](https://github.com/pyubero/fr-observatory/tree/main/base_documental).
+📂 **Base documental** de tweets, noticias, ruedas de presna e iniciativas legislativas de la extrema derecha. [Ir a base-documental](https://github.com/pyubero/fr-observatory/blob/main/base_documental/).
 
-📊 **Clasificador temático** basado en ML que analiza y etiqueta los elementos de la base documental según una clasificación elaborada por expertos en el estudio de los discursos de la extrema derecha. [Ir a metodología y resultados]().
+📊 **Clasificador temático** basado en ML que analiza y etiqueta los elementos de la base documental según una clasificación elaborada por expertos en el estudio de los discursos de la extrema derecha. [Ir a metodología y resultados](https://github.com/pyubero/fr-observatory/blob/main/metodolog%C3%ADa-y-resultados.md).
 
-📩 **Newsletter automatico** que permite monitorizar y alertar sobre tendencias y estrategias recientes de la extrema derecha. [Ir a newsletters]().
+📩 **Newsletter automatico** que permite monitorizar y alertar sobre tendencias y estrategias recientes de la extrema derecha. [Ir a newsletters](https://github.com/pyubero/fr-observatory/tree/main/newsletters).
 
 [^1]: https://www.newtral.es/castilla-leon-vox-gobierno/20220310/
 [^2]: https://www.eldiario.es/castilla-y-leon/politica/vox-rompe-gobierno-castilla-leon-autonomia-tiempo-gobernado-extrema-derecha_1_11512887.html
