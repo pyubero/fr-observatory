@@ -20,7 +20,7 @@ El observatorio se articula en torno a cuatro objetivos fundamentales:
 ## 🔍 ¿Qué encontrará aquí?
 Debido a que el observatorio está en una fase de desarrollo, de momento solo podemos compartir resultados preliminares sobre los que seguimos trabajando. En este repositorio, encontrará únicamente datos acerca del gobierno autónomico de Castilla y León en España [^1] a pesar de que dicho acuerdo se rompió en Julio de 2024[^2]. En concreto, encontrarán de forma limitada:
 
-📂 **Base documental** de tweets, noticias, ruedas de presna e iniciativas legislativas de la extrema derecha. [Ir a base-documental](https://github.com/pyubero/fr-observatory/blob/main/base_documental/).
+📂 **Base documental** de tweets, noticias, ruedas de prensa e iniciativas legislativas de la extrema derecha. [Ir a base-documental](https://github.com/pyubero/fr-observatory/blob/main/base_documental/).
 
 📊 **Clasificador temático** basado en ML que analiza y etiqueta los elementos de la base documental según una clasificación elaborada por expertos en el estudio de los discursos de la extrema derecha. [Ir a metodología y resultados](https://github.com/pyubero/fr-observatory/blob/main/metodolog%C3%ADa-y-resultados.md).
 
