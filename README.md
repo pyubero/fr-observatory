@@ -2,7 +2,7 @@
 
 
 ##  ¿Qué es el Observatorio?
-El **Observatorio de Gobiernos de Extrema Derecha** de la Werkstatt für Sozialforschung (WfS) es una iniciativa que, ante el avance de movimientos que promueven el autoritarismo, la xenofobia y la restricción de derechos fundamentales, tiene por objetivo documentar, analizar y difundir información clave sobre sus discursos y políticas. En concreto, está dedicada a la monitorización y caracterización de los partidos de extrema derecha cuando llegan al poder. Además hemos sido galardonados por la XXXXXXXXX con el premio [**AI for democracy 2024**](https://ai-for-democracy.org/).
+El **Observatorio de Gobiernos de Extrema Derecha** de la Werkstatt für Sozialforschung (WfS) es una iniciativa que, ante el avance de movimientos que promueven el autoritarismo, la xenofobia y la restricción de derechos fundamentales, tiene por objetivo documentar, analizar y difundir información clave sobre sus discursos y políticas. En concreto, está dedicada a la monitorización y caracterización de los partidos de extrema derecha cuando llegan al poder. Además hemos sido galardonados por la [Fundación Friedrich Ebert](https://www.fes.de/studienfoerderung/ehemalige) con el premio [AI for democracy 2024](https://ai-for-democracy.org/).
 
 
 ##  📌 Objetivos
