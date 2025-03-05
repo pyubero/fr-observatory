@@ -24,11 +24,10 @@ El observatorio se articula en torno a cuatro objetivos fundamentales:
 ✅ Consolidar un **espacio educativo y de diálogo**, fomentando la colaboración entre las personas interesadas y la academia, elaborando informes...
 
 $~$
----
 # 🔍 Workflow y Resultados
 
 
----
+
 ## 🎯 Minado de datos
 El minado de datos consiste en un proceso automatizado que accede, descarga y transforma volúmenes grandes de información en conocimiento útil. En nuestro caso,  el proceso comienza con la recolección de datos provenientes de múltiples fuentes, como twitter/X, medios de comunicación, discursos políticos y boletines oficiales, cada uno en un formato distinto. Esta parte del flujo de trabajo automatiza tareas repetitivas, generando una base de datos inicial que nutren las demás herramientas del observatorio.
 
@@ -39,7 +38,7 @@ En el caso de castilla y león hemos obtenido:
 - +40 actas del Boletín Oficial de Castilla y León
  
 
----
+
 ## 🚀 Entrenamiento del Clasificador
 
 Una vez obtenida nuestra base de datos "raw", queremos clasificar su contenido por temática (o "guerras"), además de filtrar documentos que no son de interés. Este proceso consta de los siguientes pasos:
@@ -55,13 +54,11 @@ En la siguiente figura puedes ver algunos resultados: cada punto representa un d
 ![Resultados clasificador](https://github.com/pyubero/fr-observatory/blob/main/resultados_clasificador.png  "Resultados clasificador")
 
 
----
 ##  📈 Dinámica de los discursos
 
 Gracias a nuestra base de datos clasificada, podemos analizar **cómo evolucionan los debates históricos**. También nos ayuda a identificar eventos clave que impulsan el discurso de la extrema derecha. Por ejemplo, tras el asesinato de Mocejón (Toledo) el 18 de agosto de 202X, se observa un pico en los discursos contra los migrantes. 
 
 
----
 ## 📨 Newsletter Semanal
 
 También, con la base de datos podemos generar newsletters con un resumen de los temas más importantes de los últimos días.
@@ -80,7 +77,7 @@ Ejemplos:
 
 
 $~$
----
+
 ## ¡Colabora!
 ⚡ ¡Únete a nuestra iniciativa y envíanos un email contándonos tus inquietudes [aquí](mailto:wfs-info@gmx.de) ! ⚡
 
