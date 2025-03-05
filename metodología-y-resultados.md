@@ -26,7 +26,7 @@ Así, logramos dos cosas: filtramos documentos irrelevantes y clasificamos los i
 
 En la siguiente figura puedes ver algunos resultados: cada punto representa un documento. Los documentos coloreados han sido etiquetados manualmente y, como puedes ver, los similares en palabras y temática aparecen juntos. Esto es precisamente lo que facilita la clasificación de documentos sin etiquetar (puntos grises).
 
-XXXXXXXXX-FIGURA-XXXXXXXXXXX
+![Resultados clasificador](https://github.com/pyubero/fr-observatory/blob/main/resultados_clasificador.png  "Resultados clasificador")
 
 
 ---

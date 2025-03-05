@@ -1,14 +1,5 @@
 # base documental
 
-## Minado de datos
-El minado de datos consiste en un proceso automatizado que accede, descarga y transforma volúmenes grandes de información en conocimiento útil. En nuestro caso,  el proceso comienza con la recolección de datos provenientes de múltiples fuentes, como twitter/X, medios de comunicación, discursos políticos y boletines oficiales, cada uno en un formato distinto. Esta parte del flujo de trabajo automatiza tareas repetitivas, generando una base de datos inicial que nutren las demás herramientas del observatorio.
-
-En el caso de castilla y león hemos obtenido:
-
-- +2.500 tweets de cuentas oficiales
-- +20.000 titulares de prensa
-- +40 actas del Boletín Oficial de Castilla y León
- 
 ## Columnas
 A parte del significado evidente de las columnas   `title`  y  `url`, tenemos:
 
